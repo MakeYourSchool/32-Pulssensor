@@ -2,7 +2,7 @@ Pulssensor
 ----
 *(Seeed Studio Grove – Fingerclip Heart Rate Sensor)*
 
-<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/32_pulssensor-1024x1024.jpg width=400px>
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/mys_mk_32-1024x1024.jpg width=400px>
 
 Bildquelle: *Wissenschaft im Dialog*
 
